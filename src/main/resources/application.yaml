@@ -1,0 +1,10 @@
+server:
+  port: 33333
+keycloak:
+  realm: testrealm
+  auth-server-url: http://auth:8080/auth
+  ssl-required: external
+  resource: myclient
+  credentials:
+    secret: 69967967-44da-4703-b627-0a0a516c95e6
+  use-resource-role-mappings: true
