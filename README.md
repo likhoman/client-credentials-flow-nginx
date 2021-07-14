@@ -1,5 +1,5 @@
 # client-credentials-flow-nginx
-The example how to NGINX as proxy for oauth2 client credentials flow
+The example how to use NGINX as proxy for oauth2 client credentials flow
 
 
 ```sh
